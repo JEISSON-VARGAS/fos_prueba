@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/9cb7d9a3-9e40-4dcf-9f85-847f375d0160/resourceGroups/FosLtns_group-a8a8/providers/Microsoft.Web/sites/FosLtns",
+    "appService.deploySubpath": ".github"
+}
